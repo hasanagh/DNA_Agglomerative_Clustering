@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<DNADataBank>
+    <DNA>
+        <accession>AB000263</accession>
+        <description>Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.</description>
+        <length>368</length>
+        <sequence>AAAG</sequence>
+    </DNA>
+    <DNA>
+        <accession>AB000263</accession>
+        <description>Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.</description>
+        <length>368</length>
+        <sequence>AAAGT</sequence>
+    </DNA>
+    <DNA>
+        <accession>AB000263</accession>
+        <description>Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.</description>
+        <length>368</length>
+        <sequence>AAAGR</sequence>
+    </DNA>
+    <DNA>
+        <accession>AB000263</accession>
+        <description>Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.</description>
+        <length>368</length>
+        <sequence>AAAGN</sequence>
+    </DNA>
+
+    <DNA>
+        <accession>AB000263</accession>
+        <description>Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.</description>
+        <length>368</length>
+        <sequence>AAAGAAAG</sequence>
+    </DNA>
+    <DNA>
+        <accession>AB000263</accession>
+        <description>Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.</description>
+        <length>368</length>
+        <sequence>AAAGAAAK</sequence>
+    </DNA>
+    <DNA>
+        <accession>AB000263</accession>
+        <description>Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.</description>
+        <length>368</length>
+        <sequence>AAAGAAAD</sequence>
+    </DNA>
+    <DNA>
+        <accession>AB000263</accession>
+        <description>Homo sapiens mRNA for prepro cortistatin like peptide, complete cds.</description>
+        <length>368</length>
+        <sequence>AAAGAAAKAAAGAAAK</sequence>
+    </DNA>
+    </DNADataBank>

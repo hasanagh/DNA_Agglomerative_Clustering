@@ -1,0 +1,55 @@
+.b{
+      -fx-background-color: #000000;
+  }
+
+
+.welcome{
+    -fx-text-fill: white;
+    -fx-font-family: Quicksand;
+    -fx-font-size: 10em;
+}
+
+.title{
+    -fx-text-fill: #ffffff;
+    -fx-font-family: Quicksand;
+    -fx-font-size: 10em;
+    text-shadow: -5px 0 black, 0 5px black, 5px 0 black, 0 -5px black;
+
+}
+
+
+.smaller-title{
+    -fx-text-fill: #000000;
+    -fx-font-family: Quicksand;
+    -fx-font-size: 3em;
+
+}
+#pane{
+    -fx-background-image: url("maxresdefault.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1380 700;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+
+.smaller-title-white{
+    -fx-text-fill: #ffffff;
+    -fx-font-family: Quicksand;
+    -fx-font-size: 3em;
+
+}
+.top{
+    -fx-background-color: #525252;
+}
+.title-white {
+    -fx-text-fill: #ffffff;
+    -fx-font-family: Quicksand;
+    -fx-font-size: 6em;
+}
+
+.backBtn{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-text-fill: white;
+    -fx-font-size: 4em;
+}
